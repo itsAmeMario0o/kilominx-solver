@@ -103,13 +103,6 @@ npm run type-check   # Run TypeScript checks
 npm test             # Run tests
 ```
 
-## 📖 Documentation
-
-- **[Development Guide](docs/DEVELOPMENT.md)** - Setup and development workflow
-- **[Architecture Overview](docs/ARCHITECTURE.md)** - Technical architecture details
-- **[Solving Algorithm](docs/SOLVING_ALGORITHM.md)** - How the solver works
-- **[API Reference](docs/API.md)** - Component and function documentation
-
 ## 🏗️ Development Phases
 
 ### Phase 1: Foundation ✅
